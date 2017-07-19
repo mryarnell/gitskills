@@ -10,7 +10,7 @@
  *       Revision:  none
  *       Compiler:  gcc
  *
- *         Author:  YOUR NAME (陶逸南), 
+ *         Author:  陶逸南
  *   Organization:  
  *
  * =====================================================================================
