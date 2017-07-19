@@ -3,14 +3,14 @@
  *
  *       Filename:  test.c
  *
- *    Description:  
+ *    Description:  这是一个test文件，纯粹测试使用
  *
  *        Version:  1.0
  *        Created:  2017年07月20日 00时30分56秒
  *       Revision:  none
  *       Compiler:  gcc
  *
- *         Author:  YOUR NAME (), 
+ *         Author:  YOUR NAME (陶逸南), 
  *   Organization:  
  *
  * =====================================================================================
